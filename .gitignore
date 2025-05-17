@@ -7,5 +7,5 @@ __pycache__/
 
 .vscode
 
-.log
-.tmp
+*.log
+*.tmp
